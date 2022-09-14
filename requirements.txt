@@ -1,0 +1,9 @@
+babel
+python-dateutil
+Flask-WTF
+Flask-Moment
+flask_sqlalchemy
+
+Flask
+WTForms
+flask_migrate
